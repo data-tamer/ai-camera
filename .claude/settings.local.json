@@ -17,7 +17,8 @@
       "Bash(cmd.exe /c \"cd /d C:\\Users\\joe\\esp\\esp-idf\\ESP32S3_N16R8camov2640prod && idf.py build\")",
       "Bash(cmd.exe /c \"dir \"\"C:\\Users\\joe\\esp\\esp-idf\\ESP32S3_N16R8camov2640prod\\main\"\"\")",
       "Bash(cmd.exe /c \"cd /d C:\\Users\\joe\\esp\\esp-idf\\ESP32S3_N16R8camov2640prod && idf.py clean\")",
-      "Bash(cmd.exe:*)"
+      "Bash(cmd.exe:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []
