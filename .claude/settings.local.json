@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(C:\\Users\\joe\\esp\\esp-idf\\ESP32C6_R60AFD1PROD\\main/**)",
+      "Read(C:\\Users\\joe\\esp\\esp-idf\\ESP32C6_R60AFD1PROD\\main/**)",
+      "Read(C:\\Users\\joe\\esp\\esp-idf\\ESP32C6_R60AFD1PROD\\main/**)",
+      "Read(C:\\Users\\joe\\esp\\esp-idf\\ESP32C6_R60AFD1PROD\\main/**)",
+      "Read(C:\\Users\\joe\\esp\\esp-idf/**)",
+      "Bash(dir \"C:\\Users\\joe\\esp\\esp-idf\\ESP32S3_N16R8camov2640\\components\\esp32-camera\" /s)",
+      "Bash(git clone:*)",
+      "Bash(idf.py build:*)",
+      "Bash(python:*)",
+      "Bash(C:UsersjoeespEspressifpython_envidf5.4_py3.11_envScriptspython.exe C:Usersjoeespesp-idftoolsidf.py build)",
+      "Bash(cmd.exe /c \"cd /d C:\\Users\\joe\\esp\\esp-idf\\ESP32S3_N16R8camov2640 && idf.py build\")",
+      "Bash(cmd.exe /c \"cd /d C:\\Users\\joe\\esp\\esp-idf\\ESP32S3_N16R8camov2640 && idf.py set-target esp32s3\")",
+      "Bash(C:UsersjoeespEspressifpython_envidf5.4_py3.11_envScriptspython.exe C:Usersjoeespesp-idftoolsidf.py -C C:Usersjoeespesp-idfESP32S3_N16R8camov2640 build)",
+      "Bash(cmd.exe /c \"cd /d C:\\Users\\joe\\esp\\esp-idf\\ESP32S3_N16R8camov2640prod && idf.py build\")",
+      "Bash(cmd.exe /c \"dir \"\"C:\\Users\\joe\\esp\\esp-idf\\ESP32S3_N16R8camov2640prod\\main\"\"\")",
+      "Bash(cmd.exe /c \"cd /d C:\\Users\\joe\\esp\\esp-idf\\ESP32S3_N16R8camov2640prod && idf.py clean\")",
+      "Bash(cmd.exe:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
